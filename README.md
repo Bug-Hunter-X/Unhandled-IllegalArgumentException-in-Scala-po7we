@@ -1,0 +1,1 @@
+This repository contains a Scala code example demonstrating an `IllegalArgumentException` that is not handled. The `bug.scala` file shows the buggy code, while `bugSolution.scala` provides a corrected version with proper exception handling.
